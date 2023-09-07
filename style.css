@@ -141,7 +141,6 @@ article#main-col{
 ul#services{
     margin:0px;
     padding: 0px;
-    margin-bottom: 5px;
 }
 ul#services li{
     list-style: none;
@@ -149,6 +148,7 @@ ul#services li{
     border: black solid 1px;
     border-radius: 10px;
     margin-top:5px;
+    margin-bottom: 5px;
     background-color: rgba(0, 0, 0, 0.382);
 }
 aside#sidebar.quote{
